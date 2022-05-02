@@ -1,9 +1,11 @@
 var maximumWealth = function (accounts) {
   let richestArr = [];
+
   for (let i = 0; i < accounts.length; i++) {
     let total = accounts[i].reduce((acc, cur) => acc + cur);
     richestArr.push(total);
   }
+
   return Math.max(...richestArr);
 };
 
