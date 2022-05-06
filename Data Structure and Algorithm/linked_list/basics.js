@@ -34,6 +34,7 @@ class LinkedList {
     this.size++;
   }
   //Inset at index
+  insertAt(data, index) {}
   //Get at index
   //Remove at index
   //Clear the list
