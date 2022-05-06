@@ -10,11 +10,13 @@ class LinkedList {
     this.head = null;
     this.size = 0;
   }
+
   //Inset First node
   insertFirstNode(data) {
     this.head = new Node(data, this.head);
     this.size++;
   }
+
   //Inset last node
   insertLastNode(data) {
     let node = new Node(data);
