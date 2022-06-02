@@ -14,4 +14,3 @@ var transpose = function (matrix) {
 
 console.log(transpose([[1, 2, 3], [4, 5, 6], [7, 8, 9]]));
 console.log(transpose([[1, 2, 3], [4, 5, 6]]));
-console.log(transpose([[1, 2, 3, 11,], [4, 5, 6, 12], [7, 8, 9, 13], [11, 12, 13, 14]]));
