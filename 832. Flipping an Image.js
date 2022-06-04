@@ -1,5 +1,6 @@
 var flipAndInvertImage = function (image) {
     const revArr = []
+
     for (let i of image) {
         revArr.push(i.reverse())
     }
