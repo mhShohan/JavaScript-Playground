@@ -16,6 +16,7 @@ function findIndex(step) {
     return -1
 }
 
+
 function updateTodo(step, updatedData) {
     let index = findIndex(step)
 
@@ -29,6 +30,7 @@ function updateTodo(step, updatedData) {
 }
 
 updateTodo(3, {step: 3, title: 'Learn a CSS freamwork (Bootstrap or tailwind).'})
+
 
 //console.log(findIndex(3))
 //console.log(findIndex(6))

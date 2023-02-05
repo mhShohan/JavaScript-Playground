@@ -7,6 +7,8 @@ let todos = [
 ]
 
 //console.log(todos)
+
+
 //console.log(todos[2])
 
 

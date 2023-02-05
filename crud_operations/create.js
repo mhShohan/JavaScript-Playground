@@ -6,6 +6,7 @@ let todos = [
     {step: 5, title: 'Learn Javascript DOM manipulation.'},
 ]
 
+
 //todos.push({step:6, title: 'learn React'})
 //todos.unshift({step:0, title: 'learn basic use of computer'})
 

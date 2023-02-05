@@ -15,6 +15,7 @@ function findIndex(step) {
     return -1
 }
 
+
 function deleteLast() {
     todos.length = todos.length - 1
 }
