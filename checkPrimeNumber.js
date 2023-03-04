@@ -12,6 +12,7 @@ const isPrime = (n) => {
     return true;
 };
 
+
 /**
  * 
  * @param {number} start 
@@ -28,6 +29,7 @@ const primeNumbers = (start, end) => {
 
     return primeNumbersArray;
 };
+
 
 
 console.log(primeNumbers(2, 20));
