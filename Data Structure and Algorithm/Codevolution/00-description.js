@@ -10,9 +10,9 @@
 
 /**
 
-Asymptic Notations
+Asymptotic Notations
     1. Big-O Notation => Worst Case Complexity
-    2. Omega Notaion  => Best Case Compexity
-    3. Theta Notaion  => Average Case Compexity
+    2. Omega Notation  => Best Case Complexity
+    3. Theta Notation  => Average Case Complexity
 
 */
