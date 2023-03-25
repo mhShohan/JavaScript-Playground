@@ -16,3 +16,27 @@ Asymptotic Notations
     3. Theta Notation  => Average Case Complexity
 
 */
+
+
+/**
+ * ///////////////////////
+ * Algorithm Design Technique
+ * \\\\\\\\\\\\\\\\\\\\\\\
+ * 
+ * Bruce Force 
+ *      => Linear Search
+ * Greedy   
+ *      => Dijkstra's Algorithm
+ *      => Prim's Algorithm
+ *      => Kruskal's Algorithm
+ * Divide and Conquer
+ *      => Binary Search
+ *      => Quick Sort
+ *      => Merge Sort
+ *      => Tower of Hanoi
+ * Dynamic programming
+ *      => Fibonacci Sequence 
+ *      => Climbing Staircase
+ * Backtracking 
+ *      => N-Queens problem 
+ */
