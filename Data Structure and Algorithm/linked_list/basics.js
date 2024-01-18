@@ -57,7 +57,7 @@ class LinkedList {
     while (count < index) {
       previous = current; // Node before index
       count++;
-      current = current.next; // Node after inde
+      current = current.next; // Node after index
     }
     node.next = current;
     previous.next = node;
@@ -126,7 +126,6 @@ linkedList.insertLastNode(200);
 linkedList.insertLastNode(400);
 linkedList.insertLastNode(500);
 
-linkedList.insertAt(000, 0);
 linkedList.insertAt(300, 3);
 
 // linkedList.removeAt(0);

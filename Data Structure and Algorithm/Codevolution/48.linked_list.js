@@ -173,7 +173,7 @@ list.prepend(10);
 list.prepend(20);
 list.prepend(30);
 
-list.append(00);
+list.append(0);
 list.append(10);
 list.insert(5, 4);
 
