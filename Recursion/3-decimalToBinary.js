@@ -10,3 +10,15 @@ const decimalToBinary = (num, result = '') => {
 
 console.log(decimalToBinary(233));
 console.log(decimalToBinary(87654));
+
+
+const octal = (num, res = '') => {
+  if (num === 0) {
+    return res;
+  }
+
+  res = num % 8 + res;
+  return octal(Math.floor(num / 8), res);
+};
+
+console.log(octal(15));
